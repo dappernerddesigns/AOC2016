@@ -1,0 +1,15 @@
+{
+  "name": "aoc2016",
+  "version": "1.0.0",
+  "description": "A collection of challenges from the 2016 Advent of Code https://adventofcode.com/2016",
+  "main": "01.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
